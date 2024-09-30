@@ -4,7 +4,7 @@ repo: la-bodega-china-upptime-2 # The name of this repository
 
 sites:
   - name: Integración empresarial
-    url: https://www.prueba.xadanimx.com/api/search-by-codebar-la-bodega-china/M1058-1F-3
+    url: https://www.integracion-la-bodega-china.xadanimx.com/api/search-by-codebar-la-bodega-china/M1058-1F-3
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
     
 status-website:
@@ -16,6 +16,7 @@ status-website:
   logoUrl: https://res.cloudinary.com/xadani-mexico/image/upload/assets/logos/xadani/logo-xadani-b.svg
   introTitle: "**Upptime** is the uptime monitor and status page, powered by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from GitHub repository.
+  theme: light
   navbar:
     - title: Status
       href: /
