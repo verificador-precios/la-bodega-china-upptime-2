@@ -1,0 +1,101 @@
+# Change these first
+owner: AlonsoK28 # Your GitHub organization or username, where this repository lives
+repo: amzmation-upptime # The name of this repository
+
+sites:
+  - name: Lastest offers
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffers
+    
+  - name: 1. Offers by department computers and accessories
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentComputersAndAccessories
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Computers_white._CB468586682_.png
+    
+  - name: 2. Offers by department electronic accessories
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentElectronicAccessories
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Electronics_white._CB468586680_.png
+    
+  - name: 3. Offers by department games and toys
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentGamesAndToys
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Toys_white._CB468586676_.png
+
+  - name: 4. Offers by department beauty
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBeauty
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Beauty_white._CB468586681_.png
+
+  - name: 5.  Offers by department fashion
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFashion
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Fashion_white.png
+
+  - name: 6. Offers by department home and kitchen
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeAndKitchen
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Kitchen_white._CB468586676_.png
+
+  - name: 7. Offers by department outdoor sports
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOutdoorSports
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Sports_white._CB468586678_.png
+
+  - name: 8. Offers by department tv and video
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentTvAndVideo
+    icon: https://m.media-amazon.com/images/G/01/img17/events/blackfriday/bfcm_landing_page_faceout_tvs._CB512071466_.jpg
+
+  - name: 9. Offers by department books
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBooks
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Books_white._CB468586681_.png
+
+  - name: 10. Offers by department cellphoners and accessories
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCellphonesAndAccessories
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Cell_white._CB468586680_.png
+
+  - name: 11. Offers by department personal care
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPersonalCare
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/HPC_white._CB468586682_.png
+
+  - name: 12. Offers by department home improvements
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentHomeImprovements
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/rsz_homeimprovement.png
+
+  - name: 13. Offers by department videogames
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentVideogames
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Video_white._CB468586673_.png
+
+  - name: 14. Offers by department cameras and photography
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentCamerasAndPhotography
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Camera_white._CB468586680_._SY100_SX600_.png
+
+  - name: 15. Offers by department bags and suitcases
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBagsAndSuitcases
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Travel_white._CB468586676_.png
+    
+  - name: 16. Offers by department furnitures
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentFurnitures
+    icon: https://m.media-amazon.com/images/G/01/img22/Events/PrimeCCHFK/Q2_2022_PrimeCC_HFKDealEvent_category-bubble_sobe_320x320_3_003.png
+
+  - name: 17. Offers by department baby
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentBaby
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Parents_white._CB468586676_.png
+
+  - name: 18. Offers by department pets
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentPets
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Pets_white._CB468586679_.png
+
+  - name: 19. Offers by department office
+    url: https://us-central1-amazmation.cloudfunctions.net/api/getOffersByDepartmentOffice
+    icon: https://m.media-amazon.com/images/G/01/goldbox/images/faceout/Office_white._CB468586679_.png
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  #cname: demo.upptime.js.org
+  baseUrl: /amzmation-upptime # where "repo" is your repository name
+  name: amzmation status website
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
