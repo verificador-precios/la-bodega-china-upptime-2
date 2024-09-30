@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Go to amzmation-upptime status website →**](https://alonsok28.github.io/amzmation-upptime/)
+[**Go to your status website →**](https://verificador-precios.github.io/la-bodega-china-upptime-2/)
 
 ## 📄 License
 
