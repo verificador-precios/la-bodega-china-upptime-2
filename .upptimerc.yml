@@ -13,7 +13,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /la-bodega-china-upptime-2 # where "repo" is your repository name
   name: Monitoreo de la disponibilidad del servicio
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://res.cloudinary.com/xadani-mexico/image/upload/assets/logos/xadani/logo-xadani-b.svg
   introTitle: "**Upptime** is the uptime monitor and status page, powered by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from GitHub repository.
   navbar:
