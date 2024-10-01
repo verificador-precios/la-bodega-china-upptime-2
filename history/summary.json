@@ -1,22 +1,20 @@
 [
   {
-    "name": "Integración empresarial",
+    "name": "Conexión remota con su base de datos Empresarial",
     "url": "https://www.integracion-la-bodega-china.xadanimx.com/api/search-by-codebar-la-bodega-china/M1058-1F-3",
     "icon": "https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339",
-    "slug": "integracion-empresarial",
+    "slug": "conexion-remota-con-su-base-de-datos-empresarial",
     "status": "up",
-    "uptime": "64.08%",
-    "uptimeDay": "64.08%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "64.08%",
-    "uptimeYear": "64.08%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
-    "dailyMinutesDown": {
-      "2024-09-30": 140
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 530,
+    "timeWeek": 530,
+    "timeMonth": 530,
+    "timeYear": 530,
+    "dailyMinutesDown": {}
   }
 ]
