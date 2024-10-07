@@ -4,7 +4,7 @@ repo: la-bodega-china-upptime-2 # The name of this repository
 
 sites:
   - name: Conexión remota con su base de datos Empresarial
-    url: https://www.integracion-la-bodega-china.xadanimx.com/api/search-by-codebar-la-bodega-china/M1058-1F-3
+    url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M1058-1F-3
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
     
 status-website:
