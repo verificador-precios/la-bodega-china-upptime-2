@@ -1,7 +1,7 @@
 [
   {
     "name": "Conexión remota con su base de datos Empresarial",
-    "url": "https://www.integracion-la-bodega-china.xadanimx.com/api/search-by-codebar-la-bodega-china/M1058-1F-3",
+    "url": "https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M1058-1F-3",
     "icon": "https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339",
     "slug": "conexion-remota-con-su-base-de-datos-empresarial",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 507,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "time": 440,
+    "timeDay": 460,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   }
 ]
