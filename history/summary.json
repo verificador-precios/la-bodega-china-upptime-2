@@ -4,19 +4,19 @@
     "url": "https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M1058-1F-3",
     "icon": "https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339",
     "slug": "conexion-remota-con-su-base-de-datos-empresarial",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 729,
-    "timeWeek": 504,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1186,
+    "timeDay": 2920,
+    "timeWeek": 1259,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {
-      "2024-10-08": 0
+      "2024-10-08": 19
     }
   }
 ]
