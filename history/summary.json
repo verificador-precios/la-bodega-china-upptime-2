@@ -4,7 +4,7 @@
     "url": "https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M1058-1F-3",
     "icon": "https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339",
     "slug": "conexion-remota-con-su-base-de-datos-empresarial",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 1004,
     "timeYear": 1004,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-10-08": 19
     }
   }
