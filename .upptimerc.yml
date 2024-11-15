@@ -3,39 +3,39 @@ owner: verificador-precios # Your GitHub organization or username, where this re
 repo: la-bodega-china-upptime-2 # The name of this repository
 
 sites:
-  - name: 1 - Conexión remota con su base de datos Empresarial (Backend) - Producto: M1058-1F-3
+  - name: 1 - Conexión remota con su base de datos Empresarial (Backend) - Producto M1058-1F-3
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M1058-1F-3
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 2 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2403072340937
+  - name: 2 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2403072340937
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2403072340937
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 3 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2407040425370
+  - name: 3 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2407040425370
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2407040425370
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 4 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2404112348117
+  - name: 4 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2404112348117
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2404112348117
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 5 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2404112353067
+  - name: 5 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2404112353067
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2404112353067
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 6 - Conexión remota con su base de datos Empresarial (Backend) - Producto: M138-37F-81
+  - name: 6 - Conexión remota con su base de datos Empresarial (Backend) - Producto M138-37F-81
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M138-37F-81
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 7 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2404050110333
+  - name: 7 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2404050110333
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2404050110333
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 8 - Conexión remota con su base de datos Empresarial (Backend) - Producto: 2403042351520
+  - name: 8 - Conexión remota con su base de datos Empresarial (Backend) - Producto 2403042351520
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/2403042351520
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
-  - name: 9 - Conexión remota con su base de datos Empresarial (Backend) - Producto: M371-2H-15
+  - name: 9 - Conexión remota con su base de datos Empresarial (Backend) - Producto M371-2H-15
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M371-2H-15
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
