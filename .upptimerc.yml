@@ -39,6 +39,14 @@ sites:
     url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M371-2H-15
     icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
 
+  - name: 10 - Conexión remota con su base de datos Empresarial (Backend) - Producto M185-5H-1
+    url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M185-5H-1
+    icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
+
+  - name: 11 - Conexión remota con su base de datos Empresarial (Backend) - Producto M134-29H-26
+    url: https://la-bodega-china-verificador-precios.com/api/search-by-codebar-la-bodega-china/M134-29H-26
+    icon: https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339
+
 
   - name: Software de Verificador de Precios (Frontend)
     url: https://la-bodega-china-verificador-precios-frontend.com/
