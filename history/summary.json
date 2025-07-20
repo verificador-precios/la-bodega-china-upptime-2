@@ -202,9 +202,9 @@
     "url": "https://la-bodega-china-verificador-precios-frontend.com/",
     "icon": "https://labodegachina.com/cdn/shop/files/Favicon-Bodega-China_32x32.png?v=1712133339",
     "slug": "software-de-verificador-de-precios-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,6 +213,8 @@
     "timeWeek": 152,
     "timeMonth": 132,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 0
+    }
   }
 ]
